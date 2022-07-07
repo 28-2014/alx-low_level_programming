@@ -1,1 +1,1 @@
-a function that prints the alphabe
+function nested loops
